@@ -14,7 +14,7 @@ function App() {
         <Route path='/history/select'><History/></Route>
         <Route path='/about'><div className='text-center space-y-3'>
           <p className='text-2xl font-semibold'>About me</p>
-          <p className='text-xl'>KITTIPHUM SANIT 630610717</p>
+          <p className='text-xl'>Wipawee Wattanatchariya 630612190</p>
         </div></Route>
         <Route path='/history/result'><Result/></Route>
         <Route path='/'><Current/></Route>
